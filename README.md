@@ -1,3 +1,3 @@
-# The School of Athen
+# The School of Athens
 
-Repository for the project "The School of Athen", year 2022/2023
+Repository for the project "The School of Athens", year 2022/2023
