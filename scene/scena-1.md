@@ -1,4 +1,4 @@
-# Prima scena
+# Prima scena: il giardino della scuola
 
 Il protagonista è uno studente che si trova nel giardino interno del Marconi. All'interno del giardino avrà la possibilità di esplorare per qualche un paio di minuti, per poterlo osservare.
 

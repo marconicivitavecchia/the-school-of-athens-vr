@@ -1,4 +1,4 @@
-# Seconda scena
+# Seconda scena: la bottega di Raffaello
 
 Il protagonista si ritrova in un luogo probabilmente all'inizio buio, in cui può scorgere solo delle ombre che sembrano attrezzi di lavoro di un falegname, o di un pittore.
 
