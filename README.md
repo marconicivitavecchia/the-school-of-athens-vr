@@ -18,7 +18,7 @@ Per i dettagli sulle scene di cui è composta l'esperienza, vedi [qui](./scene/R
 
 L'esperienza è suddivisa in quattro parti:
 
-- una introduzione (proemio)
+- un'introduzione (proemio)
 - 3 capitoli, ognuno dei quali affronta una tematica particolare tratta dalla Scuola di Atene
 
 Nella schermata iniziale dell'esperienza si potrà scegliere se partire dall'inizio o saltare direttamente una parte successiva.
