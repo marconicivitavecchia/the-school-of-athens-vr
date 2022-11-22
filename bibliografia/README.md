@@ -1,22 +1,6 @@
-# Panoramica del progetto
+# Bibliografia
 
-## Prodotto finale
-
-Il prodotto che si vuole realizzare è un'esperienza per Meta Quest. Il visore di riferimento al momento è il Meta Quest 2.
-
-## Struttura dell'esperienza
-
-L'esperienza sarà divisa in 3 capitoli, ognuno dei quali tratterà un gruppo differente di personaggi dell'affresco.
-Ogni capitolo dovrebbe durare intorno ai 10 minuti, in modo che l'esperienza nel suo complesso duri 30 minuti circa.
-
-In coerenza con la raffinata precisione di Raffaello, potremmo mantenere una struttura ben definita anche nell'esperienza,
-dividendo ogni capitolo in 3 momenti, in ognuno dei quali si tratterà un argomento e si potrà interagire con qualcosa nel mondo.
-
-Questa struttura ci dovrebbe permettere di lavorare in parallelo su diverse parti, e poi assemblarle insieme.
-
-I capitoli ed i vari momenti sono attualmente in via di definizione.
-
-## Riferimenti
+## App simili da cui abbiamo preso ispirazione
 
 L'idea è che l'utente si ritrovi in qualche modo all'interno dell'affresco, e che venga guidato da Raffaello stesso attraverso il quadro,
 in modo da fargli da guida. Un esempio di un'esperienza simile è [The Wolves in the Walls](https://www.oculus.com/experiences/quest/2446271755437605/),
