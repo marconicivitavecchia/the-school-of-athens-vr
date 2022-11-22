@@ -22,3 +22,16 @@ L'esperienza è suddivisa in quattro parti:
 - 3 capitoli, ognuno dei quali affronta una tematica particolare tratta dalla Scuola di Atene
 
 Nella schermata iniziale dell'esperienza si potrà scegliere se partire dall'inizio o saltare direttamente una parte successiva.
+
+## Classi e docenti coinvolti
+
+Partecipano al progetto studenti delle classi:
+
+- 4Bsa
+- 5Bsa
+- 4Cinf
+- 2Cinf
+
+Guida il progetto la prof.ssa Luisa Sorce, con l'apporto dei docenti C. De Iorio, (letteratura italiana e storia), G. Valdi (filosofia), C. Capobianco (informatica), M. Nannurelli (Fisica).
+
+Ringraziamo per il prezioso aiuto e contributo alla ricerca la dott.ssa Marilisa Cannarsa.
