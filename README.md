@@ -10,19 +10,6 @@ Il prodotto che si vuole realizzare è un'esperienza in realtà virtuale, in cui
 
 Il visore di riferimento al momento è il Meta Quest 2. Viene utilizzato Blender per i modelli e Unity per la parte dinamica.
 
-## Scene
-
-Per i dettagli sulle scene di cui è composta l'esperienza, vedi [qui](./scene/README.md).
-
-## Capitoli
-
-L'esperienza è suddivisa in quattro parti:
-
-- un'introduzione (proemio)
-- 3 capitoli, ognuno dei quali affronta una tematica particolare tratta dalla Scuola di Atene
-
-Nella schermata iniziale dell'esperienza si potrà scegliere se partire dall'inizio o saltare direttamente una parte successiva.
-
 ## Classi e docenti coinvolti
 
 Partecipano al progetto studenti delle classi:

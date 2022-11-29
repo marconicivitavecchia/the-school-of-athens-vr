@@ -1,6 +1,10 @@
 # Struttura dell'esperienza
 
-L'esperienza sarà divisa in 3 capitoli, ognuno dei quali tratterà un gruppo differente di personaggi dell'affresco.
+L'esperienza è suddivisa in quattro parti:
+
+- un'introduzione (proemio)
+- 3 capitoli, ognuno dei quali affronta una tematica particolare tratta dalla Scuola di Atene
+
 Ogni capitolo dovrebbe durare intorno ai 10 minuti, in modo che l'esperienza nel suo complesso duri 30 minuti circa.
 
 In coerenza con la raffinata precisione di Raffaello, potremmo mantenere una struttura ben definita anche nell'esperienza,
