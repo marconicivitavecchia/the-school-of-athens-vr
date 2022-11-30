@@ -1,4 +1,4 @@
-# Capitolo 1
+# Capitolo 2
 
 ## Macrotema riferito all'affresco
 
