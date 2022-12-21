@@ -14,3 +14,11 @@ In coerenza con la raffinata precisione di Raffaello, mantenrremo una struttura 
 dividendo ogni capitolo in 3 momenti, in ognuno dei quali si tratterà un argomento e si potrà interagire con qualcosa nel mondo.
 
 Questa struttura ci dovrebbe permettere di lavorare in parallelo su diverse parti, e poi assemblarle insieme.
+
+## Interazione
+
+L'utente è uno studente del Marconi che interagisce con il resto del mondo toccando degli oggetti.
+
+L'idea al momento è che l'utente non parlerà mai direttamente, che quindi rimane "muto".
+
+Ogni capitolo ha, in ogni tematica, due filosofi che discuteranno fra di loro e porteranno avanti il discorso.
