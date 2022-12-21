@@ -16,7 +16,7 @@ Le tre scene sono descritte nel dettaglio di seguito:
 
 Le scene sono pensate in ordine di difficoltà crescente di realizzazione. La prima non ha avatar e quasi nessuna interazione; la seconda ha solo l'avatar di Raffaello e interazioni molto semplici; la terza ha più personaggi contemporaneamente ed una interazione più complessa.
 
-## Confronto con la Divina Commedia
+## Parallelo con la Divina Commedia
 
 L'idea generale può ricordare un po' la Divina Commedia: il protagonista si trova in un momento della propria vita da studente catapultato in un mondo completamente diverso dove potrà incontrare e parlare con molte persone, discutere, riflettere, crescere.
 
