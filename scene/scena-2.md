@@ -1,14 +1,15 @@
 # Seconda scena: la bottega di Raffaello
 
-Il protagonista si ritrova in un luogo all'inizio buio, in cui può scorgere solo delle ombre che sembrano attrezzi di lavoro di un falegname, o di un pittore.
+Il protagonista si ritrova in un luogo all'inizio buio. Il libro della scena precedente va a finire su un tavolo con tanti fogli e poi come se guidasse il ragazzo verso il Cartone.
 
-Si vedono dei fogli sparsi su un tavolo. Il protagonista si avvicina e ne esamina qualcuno, sono i fogli del cartone preparatorio per l'affresco.
+Arriva da dietro Raffaello, con una candela in una mano e un carboncino nell'altra. Si avvicina al ragazzo e comincia a parlere. Finito di parlare, Raffaello va verso il tavolo, lascia il carboncino e prende un pennello.
 
-Si avvicina Raffaello a lume di candela e comincia a parlare con il protagonista. Dopo qualche battuta, i fogli volano su un grande cartonato (804cmx285cm) posto in verticale davanti a loro, riempiendo gli ultimi spazi vuoti che mancano al suo completamento.
+Passaggio alla scena successiva, due possibilità:
 
-Si allarga la visuale ed aumenta la luce, e si vede che ci si trova nella Stanza della Segnatura. Il cartonato si trova esattamente dove dovrà essere realizzato l'affresco.
+- Raffaello o il protagonista prendono un carboncino e fanno un ultimo segno simbolico sul cartonato. I contorni delle figure si illuminano, la visuale viene risucchiata attraverso un punto di questi contorni, si passa attraverso un foro e dall'altra parte si arriva alla scena successiva della Scuola di Atene vera e propria (questo passaggio vuole richiamare la tecnica dello spolvero, con cui i disegni preparatori passavano sulla parete da affrescare).
+- se la precesente opzione è troppo complicata, va bene anche che Raffaello ed il ragazzo entrano dentro il Cartone, come fosse una porta.
 
-Raffaello o il protagonista prendono un carboncino e fanno un ultimo segno simbolico sul cartonato. I contorni delle figure si illuminano, la visuale viene risucchiata attraverso un punto di questi contorni, si passa attraverso un foro e dall'altra parte si arriva alla scena successiva della Scuola di Atene vera e propria (questo passaggio vuole richiamare la tecnica dello spolvero, con cui i disegni preparatori passavano sulla parete da affrescare).
+Il cartonato ha dimensioni 804cmx285cm.
 
 ## Bibliografia
 
