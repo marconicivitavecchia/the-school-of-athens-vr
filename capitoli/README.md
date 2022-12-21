@@ -10,8 +10,7 @@ L'esperienza è suddivisa in quattro parti:
 
 Ogni capitolo dovrebbe durare intorno ai 10 minuti, in modo che l'esperienza nel suo complesso duri 30 minuti circa.
 
-In coerenza con la raffinata precisione di Raffaello, mantenrremo una struttura ben definita anche nell'esperienza,
-dividendo ogni capitolo in 3 momenti, in ognuno dei quali si tratterà un argomento e si potrà interagire con qualcosa nel mondo.
+In coerenza con la raffinata precisione di Raffaello, mantenrremo una struttura ben definita anche nell'esperienza, dividendo ogni capitolo in 3 sotto-tematiche, in ognuna delle quali si tratterà un argomento e si potrà interagire con qualcosa nel mondo. Quindi ogni sotto-tematica durerà circa 3 minuti.
 
 Questa struttura ci dovrebbe permettere di lavorare in parallelo su diverse parti, e poi assemblarle insieme.
 
