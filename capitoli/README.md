@@ -3,7 +3,10 @@
 L'esperienza è suddivisa in quattro parti:
 
 - un'introduzione (proemio)
-- 3 capitoli, ognuno dei quali affronta una tematica particolare tratta dalla Scuola di Atene
+- 3 capitoli, ognuno dei quali affronta una tematica particolare tratta dalla Scuola di Atene:
+  - [capitolo 1](./capitolo-1.md): I pitagorici
+  - [capitolo 2](./capitolo-2.md): La verità
+  - [capitolo 3](./capitolo-3.md): _work in progress_
 
 Ogni capitolo dovrebbe durare intorno ai 10 minuti, in modo che l'esperienza nel suo complesso duri 30 minuti circa.
 
