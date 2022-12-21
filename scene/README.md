@@ -22,8 +22,6 @@ Nelle prime due scene l'interazione è minimale con una sequenza sostanzialmente
 
 Nella terza scena, dove si svolge la maggior parte dell'esperienza, l'interazione diventa un po' più complessa; vedi la [pagina dei capitoli](../capitoli/README.md#interazione)
 
-[pagina](https://github.com/marconicivitavecchia/the-school-of-athens-vr/tree/main/capitoli#interazione).
-
 ## Parallelo con la Divina Commedia
 
 L'idea generale può ricordare un po' la Divina Commedia: il protagonista si trova in un momento della propria vita da studente catapultato in un mondo completamente diverso dove potrà incontrare e parlare con molte persone, discutere, riflettere, crescere.
