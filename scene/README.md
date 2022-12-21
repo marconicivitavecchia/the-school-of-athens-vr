@@ -10,7 +10,7 @@ Le tre scene sono descritte nel dettaglio di seguito:
 
 - [Scena 1: il giardino](./scena-1.md)
 - [Scena 2: la bottega](./scena-2.md)
-- [Scena 3: la scuola di Atene](./scena-3.md)
+- [Scena 3: la scuola di Atene](./scena-3/README.md)
 
 L'idea generale può ricordare un po' la Divina Commedia: il protagonista si trova in un momento della propria vita da studente catapultato in un mondo completamente diverso dove potrà incontrare e parlare con molte persone, discutere, riflettere, crescere.
 
