@@ -10,6 +10,15 @@ Il prodotto che si vuole realizzare è un'esperienza in realtà virtuale, in cui
 
 Il visore di riferimento al momento è il Meta Quest 2. Viene utilizzato Blender per i modelli e Unity per la parte dinamica.
 
+## Contenuto del progetto
+
+Il progetto è diviso nelle seguenti macro-sezioni:
+
+- [Scene](./scene/)
+- [Capitoli](./capitoli/)
+- [Avatars](./avatars)
+- [Bibliografia](./bibliografia/)
+
 ## Classi e docenti coinvolti
 
 Partecipano al progetto studenti delle classi:
