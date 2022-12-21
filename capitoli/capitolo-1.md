@@ -12,13 +12,13 @@ Descrivere e rappresentare la realtà: matematica, geometria, musica, realtà vi
 
 I pitagorici
 
-## Tabella riassuntiva delle tematiche del capitolo
+## Tabella riassuntiva delle tematiche del capitolo ([PDF](https://github.com/marconicivitavecchia/the-school-of-athens-vr/files/10178230/tabella.capitolo.1.pdf))
 
 |   | **Tematica**                          | **Filosofi coinvolti** | **Oggetto d'interazione** | **Esperienza VR** |
 |---|---------------------------------------|------------------------|---------------------------|-------------------|
-| 1 | Musica e matematica: Pitagora e l’armonia delle sfere ||||
-| 2 | Geometria della materia: i solidi platonici del Timeo ||||
-| 3 | Chora e matrice numerica: Realtà VS VR                |||Il mondo "wireframe"|
+| 1 | Musica e matematica: Pitagora e l’armonia delle sfere |PITAGORA / Platone|EPOGDOON|VISIVA (tetractys), UDITIVA (suoni diatessaron, diapente, diapason)|
+| 2 | Geometria della materia: i solidi platonici del Timeo |PLATONE / Raffaello|TESTO TIMEO, DITO PLATONE|VISIVA (costruzione solidi platonici sul dito), UDITIVA (passo del Timeo corrispondente ad ogni solido)|
+| 3 | Chora e matrice numerica: Realtà VS VR                |RAFFAELLO / Platone|In progress|Il mondo "wireframe" (errori, artifici, visione definitiva)|
 
 ## Dettagli
 
