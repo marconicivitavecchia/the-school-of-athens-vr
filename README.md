@@ -23,6 +23,6 @@ Il progetto è diviso nelle seguenti macro-sezioni:
 
 Partecipano al progetto studenti le classi (a.s. 2022/2023): 4Bsa, 5Bsa, 4Cinf, 2Cinf.
 
-Guida il progetto la prof.ssa Luisa Sorce, con l'apporto dei docenti C. De Iorio, (letteratura italiana e storia), G. Valdi (filosofia), C. Capobianco (informatica), M. Nannurelli (Fisica).
+Guida il progetto la prof.ssa Luisa Sorce, con l'apporto dei docenti C. De Iorio (letteratura italiana e storia), G. Valdi (filosofia), C. Capobianco (informatica), M. Nannurelli (Fisica).
 
 Ringraziamo per il prezioso aiuto e contributo alla ricerca la dott.ssa Marilisa Cannarsa.
