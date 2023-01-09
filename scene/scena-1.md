@@ -1,6 +1,6 @@
 # Prima scena: il giardino della scuola
 
-Il protagonista è uno studente che si trova nel giardino interno del Marconi L'ambientazione è calma e silenziosa, come quella del [VR Garden](https://github.com/DavideSky/VR-Garden) (clicca sull'immagine per avviare il video di presentazione del giardino).
+Il protagonista è uno studente che si trova nel giardino interno del Marconi L'ambientazione è calma e silenziosa, come quella del [VR Garden](https://github.com/marconicivitavecchia/VR-Garden) (clicca sull'immagine per avviare il video di presentazione del giardino).
 
 [![VR Garden](https://github.com/marconicivitavecchia/2022-vrfestival-website/raw/main/docs/assets/garden/garden-7.png)](https://drive.google.com/file/d/1CsIfhmmubFGT0FT8MzE9i3NcL0ogaM3_/preview)                            
 
