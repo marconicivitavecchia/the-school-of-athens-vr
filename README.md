@@ -2,6 +2,8 @@
 
 La nostra scuola quest'anno ha cominciato un progetto trasversale tra il liceo scientifico scienze applicate ed il tecnico informatico sulla [Scuola di Atene](https://it.wikipedia.org/wiki/Scuola_di_Atene) di Raffaello, per studiare il passato e riflettere sul presente.
 
+È possibile trovare una presentazione del progetto [qui](https://www.canva.com/design/DAFWuCrnHa0/AzZk9cBfy4Z0-MFQc67_gg/view).
+
 ## Prodotto finale
 
 Il prodotto che si vuole realizzare è un'esperienza in realtà virtuale, in cui il protagonista è uno studente della scuola che viaggerà nel tempo e nello spazio per conoscere meglio la filosofia, la storia dell'arte e capire meglio il suo presente.
