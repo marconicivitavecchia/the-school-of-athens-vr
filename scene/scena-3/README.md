@@ -16,6 +16,9 @@ Il modello 3D realizzato in Blender è reperibile al momento nel [branch dev](ht
 
 Di seguito alcuni esempi di renderings.
 
+
+![Animazione Scuola](Model_Animation_Sotto30MB-transcode.gif)
 ![Scuola](https://user-images.githubusercontent.com/90967735/206034790-87d66059-453d-4f6f-b960-1dcf4c31e0f6.png)
 ![Interno scuola](https://user-images.githubusercontent.com/90967735/203617329-15821cc1-566e-443f-b908-28f693eb8c6f.png)
-![Piazza](https://user-images.githubusercontent.com/90967735/207403811-326a04b1-1497-4acf-bbf8-607611acaefa.png)
+![Piazza 1](square.jpeg)
+![Piazza 2](https://user-images.githubusercontent.com/90967735/207403811-326a04b1-1497-4acf-bbf8-607611acaefa.png)
