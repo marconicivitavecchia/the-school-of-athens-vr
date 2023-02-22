@@ -2,7 +2,7 @@
 
 ## Macrotema riferito all'affresco
 
-_Non entri nessuno che non conosca la geometria_
+Macrotema: _Non entri nessuno che non conosca la geometria_
 
 ## Macrotema riferito alla nostra attualità
 

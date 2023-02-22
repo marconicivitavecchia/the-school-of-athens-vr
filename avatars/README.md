@@ -2,10 +2,7 @@
 
 La lista dei personaggi da creare è la seguente, in ordine di importanza:
 
-- Raffaello
-
-![Raffaello](./raffaello/fronte-retro.jpeg)
-
+- [Raffaello](./raffaello/)
 - Pitagora
 - Euclide/Bramante
 - Tolomeo
