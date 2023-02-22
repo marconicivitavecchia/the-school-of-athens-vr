@@ -19,6 +19,7 @@ Il progetto è diviso nelle seguenti macro-sezioni:
 - [Scene](./scene/)
 - [Capitoli](./capitoli/)
 - [Avatars](./avatars)
+- [Props](./props)
 - [Bibliografia](./bibliografia/)
 
 ## Classi e docenti coinvolti
