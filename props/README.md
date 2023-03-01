@@ -9,3 +9,4 @@ Di seguito una lista degli oggetti di scena (props) da realizzare:
 - libro di Platone
 - rotolo dei sofisti
 - pennello di Raffaello
+- lira di Apollo
