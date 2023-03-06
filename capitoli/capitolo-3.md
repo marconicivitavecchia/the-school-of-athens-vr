@@ -16,7 +16,7 @@ _da fare..._
 
 |   | **Tematica**                          | **Filosofi coinvolti** | **Oggetto d'interazione** | **Esperienza VR** |
 |---|---------------------------------------|------------------------|---------------------------|-------------------|
-| 1 |Proteggere la terra, nostra casa comune|Tolomeo e Raffaello|globo terrestre||
+| 1 |Proteggere la terra, nostra casa comune|Tolomeo e Raffaello|Globo terrestre||
 | 2 |In medio stat virtus: la via della felicità su questa terra|Aristotele e Raffaello|Etica Nicomachea||
 | 3 |E tu, da che parte stai?|Michelangelo e Diogene|Michelangelo e Diogene||
 
