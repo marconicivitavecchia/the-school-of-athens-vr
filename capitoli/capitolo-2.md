@@ -16,19 +16,19 @@ Sofisti e Socrate
 
 |   | **Tematica**                          | **Filosofi coinvolti** | **Oggetto d'interazione** | **Esperienza VR** |
 |---|---------------------------------------|------------------------|---------------------------|-------------------|
-| 1 | I Sofisti ||||
-| 2 | Socrate ||||
-| 3 | Platone e il mondo delle idee                ||I  tre libri||
+| 1 | I Sofisti |Apollodoro, un sofista|I due libri ed il rotolo|Libri come i social|
+| 2 | Socrate |Socrate, alcibiade|Bocca di socrate|chat con socrate|
+| 3 | Platone e il mondo delle idee|Platone|dito di socrate||
 
 ## Dettagli
 
 ### Tematica 1
-
-_da fare..._
+I sofisti si possono paragonare agli attuali influencer, sono efficaci nel trasmettere la loro idea, indipendentemente dalla verità, possono oggi dimostrare una cosa 
+Catturare consensi e insegnare ai propri allievi a catturare consensi, con l'obiettivo di imporsi sulla politica.
 
 ### Tematica 2
 
-_da fare..._
+
 
 ### Tematica 3
 
