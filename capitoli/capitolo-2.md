@@ -17,8 +17,8 @@ Sofisti e Socrate
 |   | **Tematica**                          | **Filosofi coinvolti** | **Oggetto d'interazione** | **Esperienza VR** |
 |---|---------------------------------------|------------------------|---------------------------|-------------------|
 | 1 | I Sofisti |Apollodoro, un sofista|I due libri ed il rotolo|Libri come i social|
-| 2 | Socrate |Socrate, alcibiade|Bocca di socrate|chat con socrate|
-| 3 | Platone e il mondo delle idee|Platone|dito di socrate||
+| 2 | Socrate |Socrate, Alcibiade|Bocca di socrate|Chat con socrate|
+| 3 | Platone e il mondo delle idee|Platone|Dito di socrate||
 
 ## Dettagli
 
