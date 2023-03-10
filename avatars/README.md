@@ -59,9 +59,17 @@ La lista dei personaggi da creare è la seguente, in ordine di importanza:
 <img alt="Ipazia thumbnail" src="./thumbnails/ipazia.jpeg" width="150px">
 
 - Zoroastro
+
+<img alt="Zoroastro thumbnail" src="./thumbnails/zoroastro.jpeg" width="150px">
+
 - Speusippo
 
 <img alt="Alcibiade thumbnail" src="./thumbnails/alcibiade.jpeg" width="150px">
 
 - Plotino
+
+<img alt="Plotino thumbnail" src="./thumbnails/plotino.jpeg" width="150px">
+
 - Federico II Gonzaga
+
+<img alt="Federico II Gonzaga thumbnail" src="./thumbnails/federico-ii-gonzaga.jpeg" width="150px">
