@@ -44,6 +44,10 @@ La lista dei personaggi da creare è la seguente, in ordine di importanza:
 
 <img alt="Sofista thumbnail" src="./thumbnails/sofista.jpeg" width="150px">
 
+- Diogene
+
+<img alt="Diogene thumbnail" src="./thumbnails/diogene.jpeg" width="150px">
+
 ## Forse
 
 - Euclide/Bramante
