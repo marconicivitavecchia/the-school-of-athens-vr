@@ -18,6 +18,8 @@ La lista dei personaggi da creare è la seguente, in ordine di importanza:
 
 - Apollodoro
 
+<img alt="Apollodoro thumbnail" src="./thumbnails/apollodoro.jpeg" width="150px">
+
 - Alcibiade
 
 <img alt="Alcibiade thumbnail" src="./thumbnails/alcibiade.jpeg" width="150px">
