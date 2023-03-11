@@ -2,7 +2,7 @@
 
 La lista dei personaggi da creare è la seguente, in ordine di importanza:
 
-## Sicuri
+## Sicuri (in ordine di apparizione)
 
 - [Raffaello](./raffaello/)
 
@@ -12,17 +12,33 @@ La lista dei personaggi da creare è la seguente, in ordine di importanza:
 
 <img alt="Pitagora thumbnail" src="./thumbnails/pitagora.jpeg" width="150px">
 
-- Socrate
+- Platone/Leonardo
 
-<img alt="Socrate thumbnail" src="./thumbnails/socrate.jpeg" width="150px">
+<img alt="Platone thumbnail" src="./thumbnails/platone.jpeg" width="150px">
 
 - Apollodoro
 
 <img alt="Apollodoro thumbnail" src="./thumbnails/apollodoro.jpeg" width="150px">
 
+- un sofista
+
+<img alt="Sofista thumbnail" src="./thumbnails/sofista.jpeg" width="150px">
+
+- Socrate
+
+<img alt="Socrate thumbnail" src="./thumbnails/socrate.jpeg" width="150px">
+
 - Alcibiade
 
 <img alt="Alcibiade thumbnail" src="./thumbnails/alcibiade.jpeg" width="150px">
+
+- Tolomeo
+
+<img alt="Tolomeo thumbnail" src="./thumbnails/tolomeo.jpeg" width="150px">
+
+- Zoroastro
+
+<img alt="Zoroastro thumbnail" src="./thumbnails/zoroastro.jpeg" width="150px">
 
 - Aristotele
 
@@ -31,18 +47,6 @@ La lista dei personaggi da creare è la seguente, in ordine di importanza:
 - Eraclito/Michelangelo
 
 <img alt="eraclito thumbnail" src="./thumbnails/eraclito.jpeg" width="150px">
-
-- Platone/Leonardo
-
-<img alt="Platone thumbnail" src="./thumbnails/platone.jpeg" width="150px">
-
-- Tolomeo
-
-<img alt="Tolomeo thumbnail" src="./thumbnails/tolomeo.jpeg" width="150px">
-
-- un sofista
-
-<img alt="Sofista thumbnail" src="./thumbnails/sofista.jpeg" width="150px">
 
 - Diogene
 
@@ -57,10 +61,6 @@ La lista dei personaggi da creare è la seguente, in ordine di importanza:
 - Ipazia/Kalokagathia (Francesco Maria della Rovere)
 
 <img alt="Ipazia thumbnail" src="./thumbnails/ipazia.jpeg" width="150px">
-
-- Zoroastro
-
-<img alt="Zoroastro thumbnail" src="./thumbnails/zoroastro.jpeg" width="150px">
 
 - Speusippo
 
