@@ -18,7 +18,7 @@ Sofisti e Socrate
 |---|---------------------------------------|------------------------|---------------------------|-------------------|
 | 1 | I Sofisti |Apollodoro, un sofista|I due libri ed il rotolo| Il sofista come un influecer di oggi
 | 2 | Socrate |Socrate, Alcibiade|Socrate per intero|Chat con Socrate|
-| 3 | Platone e il mondo delle idee|Platone e Raffaello  Dito di Platone| da definire 
+| 3 | Platone e il mondo delle idee|Platone e Raffaello|  Dito di Platone| da definire 
 
 ## Dettagli
 
