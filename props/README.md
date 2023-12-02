@@ -11,10 +11,10 @@ Di seguito una lista degli oggetti di scena (props) da realizzare, in ordine di 
 ## Scena 3 (città ideale)
 
 ### sicuri
-- lira di Apollo
+- ~~lira di Apollo~~
 - tavoletta con l'Epogodoon
 - libro di Platone 
-- libro di Aristotele
+- ~~libro di Aristotele~~
 - (colonna di Michelangelo)(
 - rotolo dei sofisti
 - globo terrestre
@@ -26,4 +26,4 @@ Di seguito una lista degli oggetti di scena (props) da realizzare, in ordine di 
 - (penna e calamaio di michelangelo?)
 
 ### altri oggetti architettonici
-- [plinto](link al file di Luisa Sorce)
+- ~~[plinto](link al file di Luisa Sorce)~~
