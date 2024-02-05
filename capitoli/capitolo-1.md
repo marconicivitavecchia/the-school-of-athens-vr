@@ -12,19 +12,19 @@ Descrivere e rappresentare la realtà: matematica, geometria, musica, realtà vi
 
 I pitagorici
 
-## Tabella riassuntiva delle tematiche del capitolo ([PDF](https://github.com/marconicivitavecchia/the-school-of-athens-vr/files/10178230/tabella.capitolo.1.pdf))
+## Tabella riassuntiva delle tematiche del capitolo
 
 |   | **Tematica**                          | **Filosofi coinvolti** | **Oggetto d'interazione** | **Esperienza VR** |
 |---|---------------------------------------|------------------------|---------------------------|-------------------|
 | 1 | Benvenuti al centro della Scuola di Atene! |solo Raffaello|I due libri| rappresentazione prospettica|
 | 2 | Non entri nessuno che non conosca la geometria |PLATONE / Raffaello|Dito Platone| costruzione solidi platonici sul dito, vista del mondo wireframe|
-| 3 | Kalòs kai agathòs (bello e buono)|RAFFAELLO / Gonzaga / Ipazia|Tablet-Epogdoon|suoni del diapason, immagini associate al discorso di ipazia|
+| 3 | Kalòs kai agathòs (bello e buono)|RAFFAELLO / Gonzaga / Ipazia|Tablet-Epogdoon|suoni del diapason, immagini associate al discorso di Ipazia|
 
 ## Dettagli
 
 ### Tematica 1
 
-_da fare..._
+Vengono visualizzate le linee di prospettiva dell'edificio della scuola che vanno verso il punto di fuga che si trova fra i due filosofi.
 
 ### Tematica 2
 
@@ -36,4 +36,4 @@ Riguardo ai Chora, per approfondire:
 
 ### Tematica 3
 
-_da fare..._
+L’utente interagisce con il tablet-Epogdoon, toccando dei segni sullo schermo. Ad ogni segno corrisponde un suono (diapason, diapente, diatessaron). Successivamente vengono visualizzati sul tablet filmati e pagine web.
