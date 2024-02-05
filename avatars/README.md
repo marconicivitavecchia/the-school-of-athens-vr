@@ -8,6 +8,10 @@ La lista dei personaggi da creare è la seguente.
 
 <img alt="Raffaello thumbnail" src="./thumbnails/raffaello.jpeg" width="150px">
 
+- [Ipazia/Kalokagathia (Francesco Maria della Rovere)](./ipazia/)
+
+<img alt="Ipazia thumbnail" src="./thumbnails/ipazia.jpeg" width="150px">
+
 - Pitagora
 
 <img alt="Pitagora thumbnail" src="./thumbnails/pitagora.jpeg" width="150px">
@@ -57,10 +61,6 @@ La lista dei personaggi da creare è la seguente.
 - Euclide/Bramante
 
 <img alt="Euclide thumbnail" src="./thumbnails/euclide.jpeg" width="150px">
-
-- Ipazia/Kalokagathia (Francesco Maria della Rovere)
-
-<img alt="Ipazia thumbnail" src="./thumbnails/ipazia.jpeg" width="150px">
 
 - Speusippo
 
