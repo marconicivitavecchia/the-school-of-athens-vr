@@ -24,10 +24,11 @@ Il progetto è diviso nelle seguenti macro-sezioni:
 
 - [Capitoli](./capitoli/)
 - [Scene](./scene/)
-- [Avatars](./avatars)
-- [Props](./props)
-- [Musica](./musica)
-- [Workflow](./workflow)
+- [Avatars](./avatars/)
+- [Props](./props/)
+- [Musica](./musica/)
+- [Doppiaggio](./doppiaggio/)
+- [Workflow](./workflow/)
 - [Bibliografia](./bibliografia/)
 
 ## Classi e docenti coinvolti

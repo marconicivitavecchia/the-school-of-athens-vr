@@ -22,6 +22,8 @@ I pitagorici
 
 ## Dettagli
 
+[Qui](https://docs.google.com/document/d/1w9ypO3uwYYNdia0Qm6vjrbGRzM0zKpW6Q_xhGZAHNlo/edit?usp=sharing) è possibile trovare il documento con la sceneggiatura dettagliata del capitolo.
+
 ### Tematica 1
 
 Vengono visualizzate le linee di prospettiva dell'edificio della scuola che vanno verso il punto di fuga che si trova fra i due filosofi.

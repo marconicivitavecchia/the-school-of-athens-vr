@@ -1,8 +1,16 @@
 # Avatars
 
-La lista dei personaggi da creare è la seguente.
+L'affresco di Raffaello contiene molti personaggi, ma non tutti verranno realizzati per questa esperienza.
 
-## Sicuri (in ordine di apparizione)
+Abbiamo diviso i personaggi in tre gruppi:
+
+- personaggi da animare, che avranno interazione con l'utente
+- personaggi che compariranno staticamente, per riempire in parte la scena in alcuni momenti, ma che non saranno animati e con cui non si potrà interagire
+- personaggi che non verranno realizzati e non appariranno nell'esperienza, nemmeno in forma statica.
+
+Per un profilo psicologico dei personaggi, vedi [qui](https://docs.google.com/document/d/1tLdUelrPEVQl-0wOlEBefrZkOMdlkQCOvDhMUF2EG8Y/edit?usp=sharing). Il profilo dei personaggi è necessario per la realizzazione del doppiaggio e per la scelta delle animazioni.
+
+## Personaggi animati in ordine di apparizione
 
 - [Raffaello](./raffaello/)
 
@@ -56,7 +64,7 @@ La lista dei personaggi da creare è la seguente.
 
 <img alt="Diogene thumbnail" src="./thumbnails/diogene.jpeg" width="150px">
 
-## Altri (in forse)
+## Altri personaggi da confermare se animare o statici
 
 - Euclide/Bramante
 
@@ -73,3 +81,7 @@ La lista dei personaggi da creare è la seguente.
 - Federico II Gonzaga
 
 <img alt="Federico II Gonzaga thumbnail" src="./thumbnails/federico-ii-gonzaga.jpeg" width="150px">
+
+## Personaggi statici
+
+TODO
