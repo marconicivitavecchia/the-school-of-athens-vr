@@ -14,19 +14,29 @@ Per un profilo psicologico dei personaggi, vedi [qui](https://docs.google.com/do
 
 - [Raffaello](./raffaello/)
 
-<img alt="Raffaello thumbnail" src="./thumbnails/raffaello.jpeg" width="150px">
+<img alt="Raffaello thumbnail" src="./thumbnails/raffaello.jpeg" height="200px">
+<img alt="Raffaello T-Pose" src="./raffaello/fronte-retro.jpeg" height="200px">
+
+- [Platone/Leonardo](./platone/)
+
+<img alt="Platone thumbnail" src="./thumbnails/platone.jpeg" height="200px">
+<img alt="Platone T-Pose" src="./platone/fronte-retro.jpeg" height="200px">
 
 - [Ipazia/Kalokagathia (Francesco Maria della Rovere)](./ipazia/)
 
-<img alt="Ipazia thumbnail" src="./thumbnails/ipazia.jpeg" width="150px">
+<img alt="Ipazia thumbnail" src="./thumbnails/ipazia.jpeg" width="200px">
+<img alt="Ipazia T-Pose" src="./ipazia/fronte-retro.jpeg" height="200px">
+
+- [Federico II Gonzaga](./gonzaga/)
+
+<img alt="Federico II Gonzaga thumbnail" src="./thumbnails/federico-ii-gonzaga.jpeg" width="200px">
+<img alt="Gonzaga T-Pose" src="./gonzaga/fronte-retro.jpeg" height="200px">
+
 
 - Pitagora
 
 <img alt="Pitagora thumbnail" src="./thumbnails/pitagora.jpeg" width="150px">
 
-- Platone/Leonardo
-
-<img alt="Platone thumbnail" src="./thumbnails/platone.jpeg" width="150px">
 
 - Apollodoro
 
@@ -78,9 +88,6 @@ Per un profilo psicologico dei personaggi, vedi [qui](https://docs.google.com/do
 
 <img alt="Plotino thumbnail" src="./thumbnails/plotino.jpeg" width="150px">
 
-- Federico II Gonzaga
-
-<img alt="Federico II Gonzaga thumbnail" src="./thumbnails/federico-ii-gonzaga.jpeg" width="150px">
 
 ## Personaggi statici
 
