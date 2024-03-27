@@ -20,6 +20,8 @@ Rassegna stampa:
 - [Civonline](https://www.civonline.it/altro/scuola-e-universita/rome-cup-2024-il-marconi-di-civitavecchia-brilla-con-la-sua-lettura-della-scuola-di-atene-vm36sc70)
 - [Bignotizie](https://www.bignotizie.it/romecup-2024-liis-g-marconi-tra-i-vincitori-dei-contest-creativi/)
 
+Ringraziamo l'[Istituto Pantheon Design & Technology](https://istitutopantheon.it/) di Roma per il supporto.
+
 ## Tecnologie in uso
 
 Vengono utilizzate le seguenti tecnologie:
