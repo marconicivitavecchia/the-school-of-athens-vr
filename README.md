@@ -2,11 +2,23 @@
 
 La nostra scuola ha intrapreso un progetto trasversale tra il liceo scientifico scienze applicate ed il tecnico informatico sulla [Scuola di Atene](https://it.wikipedia.org/wiki/Scuola_di_Atene) di Raffaello, per studiare il passato e riflettere sul presente.
 
-È possibile trovare una presentazione del progetto [qui](https://www.canva.com/design/DAFWuCrnHa0/AzZk9cBfy4Z0-MFQc67_gg/view).
+È possibile trovare delle presentazioni del progetto ai seguenti link:
 
-## Prodotto finale
+- [Festival VR 2023](https://www.canva.com/design/DAFWuCrnHa0/AzZk9cBfy4Z0-MFQc67_gg/view).
+- [RomeCup 2024](https://docs.google.com/presentation/d/15NzSSAgStpjb_YSfdcsg4m_QiCPITDayevXpQvtHCHk/edit?usp=drivesdk)
 
 Il prodotto che si vuole realizzare è un'esperienza in realtà virtuale, in cui il protagonista è uno studente della scuola che viaggerà nel tempo e nello spazio per conoscere meglio la filosofia, scienza, la storia dell'arte e capire meglio il suo presente.
+
+## Premi
+
+La Scuola di Atene in VR ha vinto il primo premio nella categoria 5Gbot alla RomeCup 2024!
+
+Rassegna stampa:
+
+- [Sito Fondazione Mondo Digitale](https://www.mondodigitale.org/notizie/romecup-2024-i-vincitori-dei-contest-creativi)
+- [Sito Marconi Civitavecchia](https://www.marconicivitavecchia.it/2024/03/23/romecup-2024-i-vincitori-dei-contest-creativi/)
+- [Civonline](https://www.civonline.it/altro/scuola-e-universita/rome-cup-2024-il-marconi-di-civitavecchia-brilla-con-la-sua-lettura-della-scuola-di-atene-vm36sc70)
+- [Bignotizie](https://www.bignotizie.it/romecup-2024-liis-g-marconi-tra-i-vincitori-dei-contest-creativi/)
 
 ## Tecnologie in uso
 
