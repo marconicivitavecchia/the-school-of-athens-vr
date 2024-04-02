@@ -4,8 +4,8 @@ La nostra scuola ha intrapreso un progetto trasversale tra il liceo scientifico 
 
 È possibile trovare delle presentazioni del progetto ai seguenti link:
 
-- [Festival VR 2023](https://www.canva.com/design/DAFWuCrnHa0/AzZk9cBfy4Z0-MFQc67_gg/view).
 - [RomeCup 2024](https://docs.google.com/presentation/d/15NzSSAgStpjb_YSfdcsg4m_QiCPITDayevXpQvtHCHk/edit?usp=drivesdk)
+- [Festival VR 2023](https://www.canva.com/design/DAFWuCrnHa0/AzZk9cBfy4Z0-MFQc67_gg/view)
 
 Il prodotto che si vuole realizzare è un'esperienza in realtà virtuale, in cui il protagonista è uno studente della scuola che viaggerà nel tempo e nello spazio per conoscere meglio la filosofia, scienza, la storia dell'arte e capire meglio il suo presente.
 
