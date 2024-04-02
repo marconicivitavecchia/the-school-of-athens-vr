@@ -32,6 +32,8 @@ Vengono utilizzate le seguenti tecnologie:
 - animazioni con Mixamo e Motion Builder
 - gestione del progetto con GitHub
 
+Il codice sorgente del progetto Unreal è disponibile a [questo](https://github.com/marconicivitavecchia/ScuolaDiAteneVR-Unreal) link.
+
 Il progetto è sviluppato con UE 5.3.2, seguendo esattamente le indicazioni di [questa](https://dev.epicgames.com/community/learning/tutorials/3Vx6/unreal-engine-5-3-2-for-meta-quest-vr) guida.
 
 ## Contenuto del progetto
